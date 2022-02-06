@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SplinterIsPurple;
+- 👀 I’m interested in making games;
+- 🌱 I’m currently learning Unity and Python;
+- 📫 How to reach me: splinterthepurple@gmail.com
